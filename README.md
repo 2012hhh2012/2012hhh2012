@@ -18,6 +18,6 @@
 `++:.                           `-/+/    Terminal Font: 404 not found
 .`                                 `/    CPU: Extremely Good
                                          Memory: 2.6 PiB (???%)
-                                         Local IP : under.your.bed.kids
-                                         Battery : 101% [AC Connected]
+                                         Local IP: under.your.bed.kids
+                                         Battery: 101% [AC Connected]
                                          Locale: en_US.UTF-8
