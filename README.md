@@ -21,4 +21,4 @@
                                          Memory: 2.6 PiB (???%)
                                          Local IP: under.your.bed.kids
                                          Battery: 101% [AC Connected]
-                                         Locale: en_US.UTF-8```
+                                         Locale: en_US.UTF-8
